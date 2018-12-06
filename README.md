@@ -1,25 +1,28 @@
-CCM ECOSYSTEM
-New exchange platform
-POS/MASTERNODE
+Crypto Coupons Market
+
+POS/MASTERNODE Coin
 
 Introducing CCM
-CCM coin is voting coin built for forums, bloggers and website owner. Create polls, voting on your website and have your users send CCM straight from their wallet on your website through our API and earn CCM coins.
-With a state of the art platform and admin panel, anyone can create polls, voting on their website without any programming experience.
+We built a platform for The crypto coupons exchange market.
+CCM is the decentralized coupons platform that connects coupons or vouchers card holders with users who want to purchase stuff on e-commerce websites like Amazon,flipkart,Paytm etc. In a mostly of cases, users with unused coupons or vouchers want to get rid of their coupons and CCM platform offers them a great opportunity to exchange them for cryptocurrencies.
+
+The future of investment is here with a platform to start and earn rewards from your CCM masternode. CCM blockchain provide secure and easy transactions.
 
 What problems is CCM solving?
 
-Polls and opinion polls, voting are done daily without the forum owner, blogger earning from it. Now CCM comes with the ability to earn money for anyone who has a passion for managing online forum, blogs etc.
-You can link your website to the CCM platform, create polls, voting etc on your website and your users can only participate by sending fix amount of CCM coins to vote. All earning goes straight to the admin.
-Perfect for large forums, election survey on website, sport voting. The possibilty is unlimited.
+Most coupon codes offer discounts for online purchases such as a fixed discount, a percentage off the entire purchase, free shipping or other discount as advertised by the website. Type of coupon codes are promotional or promo code, discount code, offer code, gift code, digital coupon and similar variations. But problem here majority of cases coupons will expire or not utilize by customer. Is there any value for every coupon code ? We say yes checkout our solution.
+
+Decentralized coupons platform is an escrow service and provide discount on your each purchase from e-commerce websites.
+By using our CCM platform coupon holders get something of value for their unwanted coupons. Buyers get to purchase stuff at discounted prices from e-commerce websites.
 
 
 
 FEATURES
 Coin Ticker: CCM
 Block Time: 1 min
-Masternode Collateral: 5000 CCM
+Masternode Collateral: 10,000 CCM
 Total Supply: 100,000,000
-Premine: 1,500,000
+Premine: 2,500,000
 Staking Time: 24 hours
 
 
@@ -28,9 +31,9 @@ Staking Time: 24 hours
 | **Coin Head**               | **Value**        |
 |-----------------------------|------------------|
 | Block Time                  | 60 Seconds       |
-| Max Coin Supply (PoW Phase) | 1,500,000 CCM  |
+| Max Coin Supply (PoW Phase) | 2,500,000 CCM  |
 | Max Coin Supply (PoS Phase) | 100,000,000 CCM|
-| Premine                     | 1,500,000 CCM  |
+| Premine                     | 2,500,000 CCM  |
 
 ### Reward Distribution
 
