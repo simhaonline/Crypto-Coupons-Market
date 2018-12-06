@@ -1,0 +1,26 @@
+[Unit]
+Description=CRYPTOCOUPON's distributed currency daemon
+After=network.target
+
+[Service]
+User=cryptocoupon
+Group=cryptocoupon
+
+Type=forking
+PIDFile=/var/lib/cryptocoupond/cryptocoupond.pid
+
+ExecStart=/usr/bin/cryptocoupond -daemon -pid=/var/lib/cryptocoupond/cryptocoupond.pid \
+          -conf=/etc/cryptocoupon/cryptocoupon.conf -datadir=/var/lib/cryptocoupond
+
+ExecStop=-/usr/bin/cryptocoupon-cli -conf=/etc/cryptocoupon/cryptocoupon.conf \
+         -datadir=/var/lib/cryptocoupond stop
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

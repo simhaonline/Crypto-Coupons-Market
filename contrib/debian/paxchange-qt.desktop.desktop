@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CCMcoin
+Comment=CCMcoin P2P Cryptocurrency
+Exec=cryptocoupon-qt %u
+Terminal=false
+Type=Application
+Icon=cryptocoupon128
+MimeType=x-scheme-handler/cryptocoupon;
+Categories=Office;Finance;
+Name[en_US]=cryptocoupon-qt.desktop

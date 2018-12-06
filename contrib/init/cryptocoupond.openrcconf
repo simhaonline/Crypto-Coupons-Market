@@ -1,0 +1,26 @@
+# /etc/conf.d/cryptocoupond: config file for /etc/init.d/cryptocoupond
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/cryptocoupon/cryptocoupon.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/cryptocoupond"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/cryptocoupond.pid"
+
+# Where to write cryptocoupond data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/cryptocoupond"
+
+# User and group to own cryptocoupond process
+#BITCOIND_USER="cryptocoupon"
+#BITCOIND_GROUP="cryptocoupon"
+
+# Path to cryptocoupond executable
+#BITCOIND_BIN="/usr/bin/cryptocoupond"
+
+# Nice value to run cryptocoupond under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
